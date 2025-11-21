@@ -1,4 +1,4 @@
-# sentinel-2-tif
+# sentinel_2_tif
 
 ![PyPI](https://img.shields.io/pypi/v/sentinel_2_tif)
 ![License](https://img.shields.io/github/license/chase-kusterer/sentinel_2_tif)
@@ -27,7 +27,7 @@ With this package, you will be able to **generate multiple `.tif` images in a si
 Install using pip:
 
 ```bash
-pip install sentinel-2-tif
+pip install sentinel_2_tif
 ```
 
 ---
